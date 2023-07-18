@@ -1,6 +1,6 @@
-# jax-gpu-data-science-project
+# Adaptive Compression for Communication-Efficient Distributed Training
 
-Repository containing scaffolding for a Python 3-based data science project with GPU acceleration using the [Jax](https://jax.readthedocs.io/en/latest/index.html) ecosystem. 
+Repository containing experimental setup for Ada3PC paper (https://openreview.net/forum?id=Rb6VDOHebB) with GPU acceleration using the [Jax](https://jax.readthedocs.io/en/latest/index.html) ecosystem. 
 
 ## Creating a new project from this template
 
